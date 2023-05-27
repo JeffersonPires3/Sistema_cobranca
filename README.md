@@ -1,2 +1,2 @@
 # Sistema_cobranca
-Sistema de cobrança
+Sistema de cobrança em java
